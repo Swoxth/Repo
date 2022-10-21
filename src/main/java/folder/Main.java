@@ -12,7 +12,7 @@ public class Main {
      * Main method.
      */
     public static void main(final String[] args) {
-        System.out.println("Simple program running.");
+        System.out.println("Simple program running1.");
         Teacher teacher = new Teacher();
         Student student = new Student();
         Exam exam = teacher.createExam();
